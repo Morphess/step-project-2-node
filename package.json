@@ -1,0 +1,12 @@
+{
+  "name": "step-project-2-node",
+  "version": "1.0.0",
+  "description": "Test Node.js app for Jenkins Docker pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
